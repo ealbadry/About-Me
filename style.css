@@ -1,0 +1,35 @@
+body {
+  background-color: white;
+}
+
+
+img {
+	height: 200
+}
+.profile-pic{
+	text-align: center;
+}
+.course-list li:hover {
+	border-color:green;
+}
+.box {
+	
+	
+	margin-bottom:10px;
+	border:1px solid #eee;
+	padding:10px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+.box-title h5 {
+	background: #eee;
+	padding:10px;
+	margin:0;
+	font-size: 18px;
+}
+
+
+p.special {
+	font-style: italic;
+	font-weight: bold;
+}
